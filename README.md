@@ -178,7 +178,7 @@ tmpfs                       244M     0  244M   0% /dev/shm
 tmpfs                       244M  4.5M  240M   2% /run
 tmpfs                       244M     0  244M   0% /sys/fs/cgroup
 /dev/sda1                    40G  3.3G   37G   9% /
-__nfss.test.local:/srv/share   40G  3.3G   37G   9% /mnt__
+nfss.test.local:/srv/share   40G  3.3G   37G   9% /mnt
 tmpfs                        49M     0   49M   0% /run/user/1000
 [root@nfsc ~]# showmount -e nfss.test.local
 Export list for nfss.test.local:
