@@ -4,6 +4,7 @@
 В текущей директории появится папка с именем репозитория. В данном случае hw-1. Ознакомимся с содержимым:
 ```
 cd nfs_fuse-hw5
+ls -l
 freeipa_script.sh
 nfsc_script.sh
 nfss_script.sh
